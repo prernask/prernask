@@ -25,6 +25,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible)
 
+<img width="503" height="82" alt="image" src="https://github.com/user-attachments/assets/5ac34d12-f168-4e2f-b2ae-6507934902f2" />
+
 ---
 
 
